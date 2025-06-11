@@ -67,7 +67,9 @@ python build_db.py
 ```
 -> Generates financial_db.npy and financial_db_chunks.pkl.
 
-▶️ How to Run
+---
+
+## ▶️ How to Run
 This project works well in cloud IDEs like GitHub Codespaces.
 
 1. Prepare Your Audio
